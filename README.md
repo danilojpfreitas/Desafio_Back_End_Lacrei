@@ -12,7 +12,7 @@
 
 No Desafio Back End Lacrei, foi proposta a criação de uma API para a listagem e criação de novas tarefas.
 
-A API é composta por endpoints para manipulação de tabelas de tarefas no banco de dados.
+A API é composta por endpoints para manipulação da tabela de tarefas do banco de dados.
 
 ---
 ## Como usar a API:
@@ -30,7 +30,7 @@ A API é composta por endpoints para manipulação de tabelas de tarefas no banc
 
 ## :page_with_curl: Documentação
 
-A documentação da API encontra-se em "/docs", é necessário executar com Live Server ou "npx server" por incompatibilidade da extenção.
+A documentação da API encontra-se em "/docs/Doc_Insomnia", é necessário executar com Live Server ou "npx server" por incompatibilidade da extenção.
 Todas as informações da documentação da API podem ser vistas ao clicar em "Run in Insomnia" neste README.   
 
 
