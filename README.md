@@ -1,10 +1,10 @@
 # Desafio_Back_End_Lacrei
 
 <p align="center">
-  <img src="./docs/readmeFiles/logo-lacrei.png" width="50%">
+  <img src="./docs/readmeFiles/logo-lacrei.png" width="30%">
 </p>
 <p align="center">
-<a href="" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=%20Desafio_Back_End_Lacrei&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fdanilojpfreitas%2FDesafio_Back_End_Lacrei%2Fmain%2Fdocs%2FDoc%2520Insomnia%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 
@@ -16,8 +16,8 @@ A API é composta por endpoints para manipulação de tabelas de tarefas no banc
 
 ---
 ## Como usar a API:
-  - após clonar o repositório, executar o comando "python manage.py makemigrations", em seguida "python manage.py migrate" para a criação da tabela no banco de dados.
-  - Comando para execução: "python manage.py runserver". 
+  - Após clonar o repositório, executar o comando "python manage.py makemigrations", em seguida "python manage.py migrate" para a criação da tabela no banco de dados.
+  - Comando para executar o banco de dados: "python manage.py runserver". 
   
 ---
 ## :memo: Funcionalidades criadas: 
@@ -37,7 +37,7 @@ Todas as informações da documentação da API podem ser vistas ao clicar em "R
 ---
 
 
-## :keyboard: Desenvolvedores participantes
+## :keyboard: Desenvolvedor participante
  
 [<sub>Danilo Freitas</sub>](https://github.com/danilojpfreitas)  
 
