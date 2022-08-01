@@ -16,7 +16,7 @@ A API é composta por endpoints para manipulação da tabela de tarefas do banco
 
 ---
 ## Como usar a API:
-  - Após clonar o repositório, executar o comando "python manage.py makemigrations", em seguida "python manage.py migrate" para a criação da tabela no banco de dados.
+  - Após clonar o repositório, executar o comando "source venv/bin/activate" para ativar venv + "python manage.py makemigrations" + "python manage.py migrate" para a criação da tabela no banco de dados.
   - Comando para executar o banco de dados: "python manage.py runserver". 
   
 ---
